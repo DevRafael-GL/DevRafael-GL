@@ -17,8 +17,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=DevRafael-GL&show_icons=true&theme=react" alt="Rafael Gonçalves Lima's GitHub Stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafael-GL&layout=compact&theme=react" alt="Rafael Gonçalves Lima's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=DevRafael-GL&show_icons=true&theme=react" alt="Rafael Gonçalves Lima's GitHub Stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafael-GL&layout=compact&theme=react" alt="Rafael Gonçalves Lima's most languages"/>
 </p>
 
 
