@@ -12,13 +12,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=DevRafael-GL&show_icons=true&theme=react" alt="Rafael Gonçalves Lima's GitHub Stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafael-GL&layout=compact&theme=react" alt="Rafael Gonçalves Lima's most languages"/>
+<img width="445em" src="https://github-readme-stats.vercel.app/api?username=DevRafael-GL&show_icons=true&theme=react" alt="Rafael Gonçalves Lima's GitHub Stats"/>
+<img width="445em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRafael-GL&layout=compact&theme=react" alt="Rafael Gonçalves Lima's most languages"/>
 </p>
 
 
